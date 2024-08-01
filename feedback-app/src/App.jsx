@@ -1,6 +1,8 @@
 function App() {
     return (
+        <>
         <h1>Hello from the App component</h1>
+        </>
     )
 }
 
